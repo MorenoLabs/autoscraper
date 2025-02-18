@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st # type: ignore
 import pandas as pd
 import matplotlib.pyplot as plt
 from hotel_risk_analyzer import HotelRiskAnalyzer  # Assuming your updated class is in hotel_risk_analyzer.py

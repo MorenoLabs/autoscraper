@@ -89,3 +89,4 @@ Each script requires a CSV file with hotel review data containing specific colum
 - stay_type
 - room_view
 - user_country (for some scripts)
+  
